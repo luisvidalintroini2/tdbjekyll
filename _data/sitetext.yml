@@ -170,14 +170,14 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: Tour de Bares
+    text: El mejor lugar para conocer gente
     button: Ver más
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
+    title: "¿Que hacemos?"
+    text: "Todas las semanas realizamos algún encuentro presencial como recorridas a bares, cine, juegos. Estamos abiertos a cualquier actividad que sirva como excusa para juntarnos y conocernos."
     section: servicios
     list:
       - title: "Comercio Electrónico"
