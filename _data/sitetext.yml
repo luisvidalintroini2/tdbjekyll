@@ -230,7 +230,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Somos un grupo que nace en los bares de Montevideo con la intención de conocer gente fuera de nuestros círculos sociales"
     section: nosotros
 
   clients:
