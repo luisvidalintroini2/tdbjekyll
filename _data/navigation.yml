@@ -38,10 +38,10 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
     - title: "Portafolio"
       section: portafolio
+    - title: "Servicios"
+      section: servicios
     - title: "Sobre Nosotros"
       section: nosotros
     - title: "Cronología"
