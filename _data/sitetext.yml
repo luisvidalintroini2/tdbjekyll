@@ -180,7 +180,10 @@ es: &DEFAULT_ES
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar Proyecto"
-
+  portfolio2:
+    title: "Portafolio2"
+    text: "Al papa le gustan los puchos"
+    section: portafolio2
   services:
     title: "¿Que hacemos?"
     text: "Todas las semanas realizamos algún encuentro presencial como recorridas a bares, cine, juegos. Estamos abiertos a cualquier actividad que sirva como excusa para juntarnos y conocernos."
